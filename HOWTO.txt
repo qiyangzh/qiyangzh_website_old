@@ -1,0 +1,10 @@
+Open Terminal
+
+Type:
+
+cd Desktop/qiyangzh.github.io
+git add .
+git commit -m "Message"
+git push origin master
+
+Your website is updated!!!
