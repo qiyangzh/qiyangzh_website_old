@@ -1,8 +1,8 @@
 Open Terminal
+Navigate to folder using cd
 
-Type:
+Then run
 
-cd Desktop/qiyangzh.github.io
 git add .
 git commit -m "Message"
 git push origin master
